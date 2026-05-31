@@ -3,7 +3,20 @@
 **Indice**
 ```
 1. Qué son
+1.1 Definición
+1.2 Sintaxis base
+1.3 Símbolos más usados
+1.4 Modificadores
+
 2. Metodos mas usados
+2.1 Métodos
+2.1 replace()
+2.2 `replace()`
+2.3 `test()`
+2.4 `match()`
+2.5 `search()`
+2.6 `split()`
+
 3. Ejemplos
 ```
 
