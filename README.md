@@ -1,12 +1,10 @@
 # Guía de **expresiones regulares**
 
 <div style="background:#ff7; padding:30px; width:fit-content">
-
 **Indice**
 1. Qué son
 2. Metodos mas usados
 3. Ejemplos
-
 </div>
 
 ---
